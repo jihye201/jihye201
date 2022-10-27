@@ -2,15 +2,17 @@
 
 - 🌱 I graduated...
 
-🏫 Hankuk foreign university 
-💻 Codestates AI bootcamp 13
+  🏫 Hankuk foreign university \
+  💻 Codestates AI bootcamp 13
 
 - 🌱 I’m currently interested in...
 
-👩🏻‍💻 DA 
-🐱 CAT 
+  👩🏻‍💻 DA 
+  🐱 CAT 
+  
 
 - 🌱 I’m currently studying...
 
-SQL
-Tableau
+  SQL
+  Tableau
+  Python - machine engineering
