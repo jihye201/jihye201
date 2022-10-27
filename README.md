@@ -7,12 +7,12 @@
 
 - 🌱 I’m currently interested in...
 
-  👩🏻‍💻 DA 
+  👩🏻‍💻 DA \
   🐱 CAT 
   
 
 - 🌱 I’m currently studying...
 
-  SQL
-  Tableau
+  SQL\
+  Tableau\
   Python - machine engineering
